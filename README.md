@@ -44,6 +44,8 @@ The SQL preparation included:
 
 ## Age Group
 
+[View SSMS SQL →](sda_query.sql)
+
 An `Age_Group` column was created in SQL Server using the following categories:
 
 | Age Range | Age Group |
